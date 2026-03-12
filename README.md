@@ -1,4 +1,4 @@
-# LearnNGo
+# LearnNGo SDG 4 : Quality Education
 
 ## Group Members
 - Hing Zhen Nam
