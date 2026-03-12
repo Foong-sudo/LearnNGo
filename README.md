@@ -1,4 +1,4 @@
-# PSE-Group-Assignment SDG 4
+# EduQuest
 
 ## Group Members
 - Hing Zhen Nam
@@ -10,4 +10,5 @@
 ## Description
 To develop a system that will improve the quality of education and make learning more engaging towards the demographic of high school and university students.
 
-SDLC Work Summary
+## SDLC Work Summary
+
