@@ -1,4 +1,4 @@
-# EduQuest
+# LearnNgo
 
 ## Group Members
 - Hing Zhen Nam
