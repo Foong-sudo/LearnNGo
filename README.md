@@ -8,5 +8,6 @@
 - Gan Foong Jieh
 
 ##Description
+To develop a system that will improve the quality of education and make learning more engaging towards the demographic of high school and university students.
 
 ##SDLC Work Summary
